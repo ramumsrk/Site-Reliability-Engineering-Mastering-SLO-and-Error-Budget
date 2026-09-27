@@ -1,0 +1,6 @@
+# Section 3: Service Level Indicators (SLIs)
+9. [Service Level Indicators (SLIs)](./03-09-Video-Service-Level-Indicators-SLIs/)
+10. [Additional SLI types](./03-10-Video-Additional-SLI-types/)
+11. [Advantages of Adopting SLIs](./03-11-Video-Advantages-of-Adopting-SLIs/)
+12. [SLI Monitoring Tools](./03-12-00-Video-SLI-Monitoring-Tools/)
+12. [Quiz 3: Review](./03-12-01-Reading-Quiz-3-Review/)
